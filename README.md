@@ -22,4 +22,4 @@ Este projeto é uma API REST desenvolvida com .NET 8 que permite rastrear pacote
 
 ## Execute o programa no Terminal
 3. Executar:
-   dotnet run
+   cd ApiRastreamento > dotnet run
