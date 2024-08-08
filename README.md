@@ -13,8 +13,8 @@ Este projeto é uma API REST desenvolvida com .NET 8 que permite rastrear pacote
 ```sh
 ## Instalação
 1. Clone o repositório:
-   git clone https://github.com/seu_usuario/api-rastreamento-correios.git
-   cd api-rastreamento-correios
+   git clone https://github.com/endlessproxy/Rastreamento-Correios.git
+   cd Rastreamento-Correios
 
 ## Instale as dependencias (Se necessário)
 2. Dependencias:
