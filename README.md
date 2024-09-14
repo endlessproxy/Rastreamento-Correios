@@ -1,4 +1,4 @@
-# Backend: **API REST** de Rastreamento dos Correios com modelo C# Web API
+# Backend: **API REST** de Rastreamento de Encomenda dos Correios
 
 ## Introdução
 Este projeto é uma API REST desenvolvida com .NET 8 que permite rastrear pacotes utilizando o serviço dos Correios. A API fornece endpoints para buscar o status da encomenda e verificar se ela já foi entregue.
